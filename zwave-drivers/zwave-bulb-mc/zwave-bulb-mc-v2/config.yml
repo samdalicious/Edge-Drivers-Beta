@@ -1,5 +1,5 @@
-name: 'Z-Wave Bulb Mc'
-packageKey: 'zwave-bulb-v2'
-description: 'Devices Supported: https://github.com/Mariano-Github/Edge-Drivers-Beta/blob/main/zwave-drivers/zwave-bulb-mc/fingerprints.yml'
+name: 'Z-Wave Bulb Mc (Hank RGB)'
+packageKey: 'zwave-bulb-v2-hank'
+description: 'Based on Z-Wave Bulb Mc by Mariano Colmenarejo, with Monoprice/Hank HKZW-RGB01 RGB bulb support added. Devices Supported: https://github.com/samdalicious/Edge-Drivers-Beta/blob/main/zwave-drivers/zwave-bulb-mc/zwave-bulb-mc-v2/fingerprints.yml'
 permissions:
   zwave: {}
